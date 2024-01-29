@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sporitelna.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="btntDetails1Cache" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="txtAsPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P:\PAM\MZDY.T_0</Value>
+    </Setting>
+    <Setting Name="txtHoldingPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P:\PAM\holding\MZDY.T_1</Value>
+    </Setting>
+    <Setting Name="txtBusPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P:\PAM\bus\MZDY.T_1</Value>
+    </Setting>
+    <Setting Name="txtLogisticsPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P:\PAM\logistics\MZDY.T_1</Value>
+    </Setting>
+    <Setting Name="txtServisPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P:\PAM\servis\MZDY.T_1</Value>
+    </Setting>
+    <Setting Name="usersIdChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersTitulChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersFirstNameChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersLastNameChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersAddressChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersNationalityChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersBirthdateChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usersCompanyChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth0" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">114</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">114</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">212</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">211</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">227</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth5" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">212</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth6" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">213</Value>
+    </Setting>
+    <Setting Name="dgvUsersWidth7" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">212</Value>
+    </Setting>
+    <Setting Name="contractsIdChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="contractsFirstNameChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="contractsLastNameChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="contractsFullNameChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="contractsFinalAmountChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="contractsInterestRateChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="contractsTotalChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="contractsCurrencyChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="contractsDateSinceChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="contractsDateToChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="contractsDescriptionChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="contractsStatusChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="cbFilterSelectedYear" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2022</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
